@@ -2,7 +2,6 @@ package org.springframework.samples.mvc.async;
 
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
-import java.util.concurrent.PriorityBlockingQueue;
 
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Controller;
